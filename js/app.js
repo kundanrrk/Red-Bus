@@ -30,7 +30,8 @@ $("#input-label-onward-date, #input-label-return-date").focusout(function() {
 });
 
 /* Pass Input-From's Locations to Input field */
-// From Locations Data
+// From Locations --kundan kumar
+
 var inputFromList = [
     { fromLocation: "Gurgaon" },
     { fromLocation: "Delhi" },
@@ -47,7 +48,7 @@ for (var i = 0; i < inputFromList.length; i++) {
 }
 
 /* Pass Input-To's Locations to Input field */
-// To Locations Data
+// To Locations Data -- kundan kumar
 var inputToList = [
     { toLocation: "Gurgaon" },
     { toLocation: "Delhi" },
