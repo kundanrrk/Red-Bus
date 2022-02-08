@@ -1,0 +1,3 @@
+select master.employee_id,master.employee_salary,Item.Dept_name,Item.Dept_id
+from master,Item
+group by Dept_name,employee_salary

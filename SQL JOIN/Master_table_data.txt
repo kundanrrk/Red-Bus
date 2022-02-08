@@ -1,0 +1,8 @@
+
+                                    -------Master Table  Data--------
+
+INSERT INTO Master VALUES (101, 'Ramesh', 25000);
+
+INSERT INTO Master VALUES (102, 'Suresh', 35000);
+
+INSERT INTO Master VALUES (103, 'Mahesh', 45000);

@@ -1,0 +1,9 @@
+CREATE TABLE Master
+
+ (
+
+  Employee_id INTEGER PRIMARY KEY,
+  Employee_name TEXT NOT NULL,
+  Employee_salary INTEGER 
+
+);

@@ -1,0 +1,10 @@
+CREATE TABLE Item
+ (
+
+
+  Dept_id INTEGER PRIMARY KEY,
+  Dept_name TEXT NOT NULL,
+  Employee_id int,
+  foreign key(Employee_id) references Master(Employee_id)
+  
+);

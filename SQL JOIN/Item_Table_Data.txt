@@ -1,0 +1,10 @@
+
+                           -------Item Table  Data--------
+
+
+                 INSERT INTO Item VALUES (201, 'IT',101);
+
+                 INSERT INTO Item VALUES (202, 'HR',102);
+
+                 INSERT INTO Item VALUES (203, 'IT',103);
+
